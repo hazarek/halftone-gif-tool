@@ -15,8 +15,6 @@ def palette_from_layers(layers):
 
 class Halftone():
 
-
-    """halftone generator from psd"""
     def __init__(self, ora, step=1, period=16, waveform="sawtooth", adjust=False):
             self.layers = openora(ora)
             # print(self.layers)
