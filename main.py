@@ -1,3 +1,8 @@
+# halftone-gif-tool by hazarek is licensed under CC BY-NC-SA 4.0.
+# To view a copy of this license, visit creativecommons.org/licenses/by-nc-sa/4.0
+# github.com/hazarek
+# github.com/hazarek/halftone-gif-tool
+
 from halftone import Halftone as hf
 
 
