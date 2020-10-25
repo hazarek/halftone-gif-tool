@@ -6,14 +6,14 @@ Animated fractal halftone gif helper script
 * Pillow
 
 ### input.ora layer structure
-<img src="images/ora_layers" alt="layers" width="954">
+<img src="images/ora_layers.png" alt="layers" width="954">
 
 ### Output GIF
-![demo](/images/output.gif)
+![output](/images/output.gif)
 
 ### Samples
-![example1](mages/example1.gif)  
-![example1](mages/example2.gif)
+![example1](/images/example1.gif)  
+![example2](/images/example2.gif)
 
 ### Source of idea
 https://billtavis.com/blogs/fractalism-is-the-new-cubism/making-of-trying-to-hold-it-together-screenprint
