@@ -9,7 +9,7 @@ Animated fractal halftone gif helper script
 <img src="images/ora_layers" alt="layers" width="954">
 
 ### Output GIF
-![demo](images/output.gif)
+![demo](/images/output.gif)
 
 ### Samples
 ![example1](mages/example1.gif)  
