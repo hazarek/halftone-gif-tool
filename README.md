@@ -1,6 +1,10 @@
 # halftone-gif-tool
 Animated fractal halftone gif helper script
 
+### Python3 Requirements
+* Numpy
+* Pillow
+
 ### input.ora layer structure
 ![example1](ora_layers.png)
 
