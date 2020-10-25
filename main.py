@@ -6,7 +6,7 @@
 from halftone import Halftone as hf
 
 
-test = hf("input.ora", step=1, period=15, waveform="sawtooth", adjust=False)
-test.savegif("demo.gif", scale=0.3, miliseconds=60, colour=256, sampling=3)
+test = hf("input.ora", step=1, period=12, waveform="sawtooth", adjust=False)
+test.savegif("output.gif", scale=0.25, miliseconds=50, colour=128, sampling=3)
 
 # test.savewebp("wp2.webp",scale=0.5, miliseconds=60)
