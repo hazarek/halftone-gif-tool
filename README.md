@@ -1,5 +1,5 @@
 # halftone-gif-tool
-animated halftone gif helper script
+Animated fractal halftone gif helper script
 
 source of idea
 https://billtavis.com/blogs/fractalism-is-the-new-cubism/making-of-trying-to-hold-it-together-screenprint
