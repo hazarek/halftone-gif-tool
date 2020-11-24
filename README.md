@@ -1,6 +1,6 @@
-# halftone-gif-tool
+# Halftone Gif Tool
 
-Animated fractal halftone gif helper script
+Animated fractal halftone gif helper script.
 
 ## Python3 Requirements
 
