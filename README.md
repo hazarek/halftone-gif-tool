@@ -37,4 +37,4 @@ test.savegif("output.gif", scale=0.25, miliseconds=50, colour=128, sampling=3)
 
 ### Source of idea
 
-https://billtavis.com/blogs/fractalism-is-the-new-cubism/making-of-trying-to-hold-it-together-screenprint
+https://billtavis.com
